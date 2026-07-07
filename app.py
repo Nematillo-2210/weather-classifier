@@ -19,7 +19,8 @@ inface = gr.Interface(
     fn=wrapper,
     inputs=gr.Image(),
     outputs=gr.Label(),
-    title='Weather Classifier'
-),
+    title='Weather Classifier',
+    api_name=False
+)
 
 inface.launch()

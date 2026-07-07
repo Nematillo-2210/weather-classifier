@@ -36,8 +36,8 @@ A deep learning model that classifies images into 11 weather conditions: dew, fo
 
 ## Screenshot
 
-*<img width="1630" height="682" alt="image" src="https://github.com/user-attachments/assets/aaf00e9b-d017-4aec-8503-f6f697b6d7ca" />
-*
+<img width="1630" height="682" alt="image" src="https://github.com/user-attachments/assets/aaf00e9b-d017-4aec-8503-f6f697b6d7ca" />
+
 
 ---
 

@@ -44,7 +44,7 @@ A deep learning model that classifies images into 11 weather conditions: dew, fo
 ## How to Run Locally
 
 ```
-pip install fastai gradio
+pip install -r requirements.txt
 python app.py
 ```
 
